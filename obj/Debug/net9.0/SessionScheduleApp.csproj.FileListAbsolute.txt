@@ -1,0 +1,14 @@
+C:\d\code\SessionScheduleApp\SessionScheduleApp\bin\Debug\net9.0\SessionScheduleApp.exe
+C:\d\code\SessionScheduleApp\SessionScheduleApp\bin\Debug\net9.0\SessionScheduleApp.deps.json
+C:\d\code\SessionScheduleApp\SessionScheduleApp\bin\Debug\net9.0\SessionScheduleApp.runtimeconfig.json
+C:\d\code\SessionScheduleApp\SessionScheduleApp\bin\Debug\net9.0\SessionScheduleApp.dll
+C:\d\code\SessionScheduleApp\SessionScheduleApp\bin\Debug\net9.0\SessionScheduleApp.pdb
+C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\SessionScheduleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\SessionScheduleApp.AssemblyInfoInputs.cache
+C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\SessionScheduleApp.AssemblyInfo.cs
+C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\SessionScheduleApp.csproj.CoreCompileInputs.cache
+C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\SessionScheduleApp.dll
+C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\refint\SessionScheduleApp.dll
+C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\SessionScheduleApp.pdb
+C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\SessionScheduleApp.genruntimeconfig.cache
+C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\ref\SessionScheduleApp.dll
