@@ -12,3 +12,4 @@ C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\refint\SessionS
 C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\SessionScheduleApp.pdb
 C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\SessionScheduleApp.genruntimeconfig.cache
 C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\ref\SessionScheduleApp.dll
+C:\d\code\SessionScheduleApp\SessionScheduleApp\obj\Debug\net9.0\SessionScheduleApp.sourcelink.json
